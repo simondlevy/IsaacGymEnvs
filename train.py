@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # train.py
 # Script to train policies in Isaac Gym
 #
